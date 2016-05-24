@@ -33,7 +33,6 @@ Run following command:
 
 g++ sorting.cpp -o sorting
 
-$ ls -l sorting*
-
 $ ./sorting
+
 
